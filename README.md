@@ -1,2 +1,2 @@
-# supertrunfo
+# supertrunfo.c
 trabalho
